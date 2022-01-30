@@ -13,13 +13,14 @@
     line-height: 90%;
     font-weight: 400;
     color: #333366;
+    border-radius: 10px;
     font-family: 'Source Sans Pro', sans-serif;
 
 }
 
 .sobre-web-design article p,
 .sobre-web-design article h2{
-    color: #3399cc
+    color: #3399cc ;
 }
 
 .sobre-web-design article h2{
